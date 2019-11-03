@@ -1,0 +1,4 @@
+baseURL = "https://chojemmy.github.io"
+languageCode = "en-us"
+title = "BIM1024"
+theme = "even"
